@@ -41,7 +41,7 @@ This repository contains my **daily SQL practice** as I work on improving my SQL
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muskan-kumari-60665a2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💻 [GitHub]https://github.com/Musu581/MUSKAN-KUMARI)
+- 💻 [GitHub](https://github.com/Musu581/MUSKAN-KUMARI)
 
 ---
 

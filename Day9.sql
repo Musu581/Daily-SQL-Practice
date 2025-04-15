@@ -57,6 +57,7 @@ FROM customers c
 JOIN orders o ON c.customer_id = o.customer_id
 GROUP BY c.country
 HAVING SUM(o.order_amount) > 2000;
+
 📌 Key Learnings:
 GROUP BY is used to organize data into groups for summary analysis.
 
